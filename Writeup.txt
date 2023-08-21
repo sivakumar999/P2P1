@@ -1,0 +1,60 @@
+1. Create Database School:
+
+This statement creates a new database named "School". It will be used to store
+tables related to school data.
+
+2. Use Database School:
+
+This statement selects the "School" database so that the subsequent operations are performed
+within this database.
+
+3. Create Table Student:
+
+This statement creates a table named "Student" with columns ID, Name, Address, Email, and Class.
+ The table will store information about students.
+
+4. Insert Data into Student Table:
+
+These three statements insert sample data into the "Student" table. Each statement inserts
+a row with values for columns ID, Name, Class, Address, and Email. The "Student" table now 
+contains three sample student records.
+
+5. Create Table Class:
+
+This statement creates a table named "Class" with columns ID and Name. The "Class"
+ table stores information about different classes.
+
+6.Insert Data into Class Table:
+
+These statements insert sample data into the "Class" table. Each statement inserts a row
+ with values for columns ID and Name. The "Class" table now contains five class records.
+
+7.Create Table Subject:
+
+This statement creates a table named "Subject" with columns ID and Name. The "Subject" 
+table stores information about different subjects.
+
+8. Insert Data into Subject Table:
+
+These statements insert sample data into the "Subject" table. Each statement inserts a 
+row with values for columns ID and Name. The "Subject" table now contains five subject records.
+
+9.Select Data from Class Table:
+
+This statement retrieves all rows from the "Class" table and displays them. It shows the class
+ records that were inserted earlier.
+
+10.Select Data from Student Table:
+
+This statement retrieves all rows from the "Student" table and displays them. It shows the student
+ records that were inserted earlier.
+
+11.Select Data from Subject Table:
+
+This statement retrieves all rows from the "Subject" table and displays them. 
+It shows the subject records that were inserted earlier.
+
+12.Update Data in Student Table:
+
+This statement updates the "Student" table, setting the ID to 3 for the student with the name "Manuel".
+ This could be used to modify data in the table.
